@@ -1,0 +1,3 @@
+1350 massimi 
+90 Khz impulso
+3.5 volt
