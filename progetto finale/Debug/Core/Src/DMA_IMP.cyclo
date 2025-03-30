@@ -1,0 +1,5 @@
+../Core/Src/DMA_IMP.c:24:6:inizializzo_DMA	1
+../Core/Src/DMA_IMP.c:38:6:inizializzo_USART	1
+../Core/Src/DMA_IMP.c:50:6:interrupt_USART_DMA	1
+../Core/Src/DMA_IMP.c:62:6:inizializzo_ADC	4
+../Core/Src/DMA_IMP.c:81:6:interrupt_ADC_DMA	1
